@@ -1,0 +1,15 @@
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\bin\Debug\netcoreapp3.1\NPL_M_A013.exe
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\bin\Debug\netcoreapp3.1\NPL_M_A013.deps.json
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\bin\Debug\netcoreapp3.1\NPL_M_A013.runtimeconfig.json
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\bin\Debug\netcoreapp3.1\NPL_M_A013.runtimeconfig.dev.json
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\bin\Debug\netcoreapp3.1\NPL_M_A013.dll
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\bin\Debug\netcoreapp3.1\NPL_M_A013.pdb
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\obj\Debug\netcoreapp3.1\NPL_M_A013.AssemblyInfoInputs.cache
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\obj\Debug\netcoreapp3.1\NPL_M_A013.AssemblyInfo.cs
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\obj\Debug\netcoreapp3.1\NPL_M_A013.csproj.CoreCompileInputs.cache
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\obj\Debug\netcoreapp3.1\NPL_M_A013.csproj.CopyComplete
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\obj\Debug\netcoreapp3.1\NPL_M_A013.dll
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\obj\Debug\netcoreapp3.1\NPL_M_A013.pdb
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\obj\Debug\netcoreapp3.1\NPL_M_A013.genruntimeconfig.cache
+D:\Study\FA\NPL\Assignment\Assignment 5\Assignment 5\NPL_M_A013\obj\Debug\netcoreapp3.1\NPL_M_A013.csprojAssemblyReference.cache
